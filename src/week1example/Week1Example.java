@@ -16,7 +16,9 @@ public class Week1Example {
     /**
      * @param args the command line arguments
      * hello my name is kartik
-     * nnnnnjfdnfdnfdnfdjnfdn
+     * nnnnnjfdnfdnfdnfdjnfgbbfdn
+     * fjffnf
+     * ngngng
      */
     public static void main(String[] args) {
         // TODO code application logic here
