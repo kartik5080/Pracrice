@@ -14,7 +14,7 @@ public class Week1Example {
 
     /**
      * @param args the command line arguments
-     * hello my name is kartikkkk
+     * hello my name is kartik
      */
     public static void main(String[] args) {
         // TODO code application logic here
