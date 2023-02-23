@@ -14,6 +14,7 @@ public class Week1Example {
 
     /**
      * @param args the command line arguments
+     * hello my name is kartikkkk
      */
     public static void main(String[] args) {
         // TODO code application logic here
@@ -26,6 +27,7 @@ public class Week1Example {
         for(int i=a.length-1;i>=0;i--)
         {
             System.out.println(a[i]);
+            
         }
         
     }
