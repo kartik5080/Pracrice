@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  *
  * @author Asus
- date created hello
+ date created hello muh me lelo
  */
 public class Week1Example {
 
